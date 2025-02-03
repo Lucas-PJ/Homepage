@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,7 @@ Jie Peng (彭杰) is presently a second-year Ph.D. student at the Gaoling School
 
 Research Interests
 ======
-My research focuses on graph machine learning. I am currently working on the Over-smoothing of deep graph neural networks, dynamic graph neural networks, and graph Transformers.
+My research focuses on graph machine learning. I am currently working on dynamic graph neural networks, graph Transformers, and the Over-smoothing of deep graph neural networks.
 <br/>
 <br/>
 
